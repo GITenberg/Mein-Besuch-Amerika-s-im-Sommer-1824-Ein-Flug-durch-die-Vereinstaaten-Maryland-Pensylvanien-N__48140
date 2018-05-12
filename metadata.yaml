@@ -1,10 +1,16 @@
 _repo: Mein-Besuch-Amerika-s-im-Sommer-1824-Ein-Flug-durch-die-Vereinstaaten-Maryland-Pensylvanien-N__48140
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48140-h/images/cover.jpg
 creator:
   author:
     agent_name: Suchard, Philippe
     gutenberg_agent_id: '44640'
     url: http://www.gutenberg.org/2009/agents/44640
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48140#Mein-Besuch-Amerika-s-im-Sommer-1824-Ein-Flug-durch-die-Vereinstaaten-Maryland-Pensylvanien-N_
 gutenberg_issued: '2015-02-02'
 gutenberg_type: Text
 identifiers:
